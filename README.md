@@ -21,7 +21,8 @@ This repository must not be cited as evidence that either thesis RQ has an addit
 
 Planning only. No confirmatory publication data are claimed. Existing instruments from repositories 10, 11, 12, 15, and 16 may inform later protocols, but they do not become results until the applicable protocol, approvals, data, analysis, and reporting boundaries are frozen.
 
+Publication-only scholarly sources are maintained in `docs/PUBLICATION_SOURCE_REGISTER.md`. Keeping that register here prevents deferred external-system and prompt-sensitivity literature from being mistaken for support used to answer the two approved thesis questions.
+
 ## License Status
 
 No redistribution license has been selected.
-
